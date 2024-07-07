@@ -1,0 +1,44 @@
+
+  body{
+    background-color: black;
+   
+  }
+  .border
+   {
+    height: 400px;
+    width: 600px;
+    border: 2px solid white;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+   }
+
+  .name{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    left: 650px;
+    top: 550px;
+
+  }
+
+  .white{
+    height: 133px;
+    width: 600px;
+    background-color:#ffffff;
+    /* justify-items: center; */
+  }
+
+  .blue{
+    height: 133px;
+    width: 600px;
+    background-color:#0066b3;
+  }
+
+  .red{
+    height: 133px;
+    width: 600px;
+    background-color: #ed1c24;
+  }
+  
